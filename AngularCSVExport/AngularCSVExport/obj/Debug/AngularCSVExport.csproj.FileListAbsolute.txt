@@ -1,0 +1,6 @@
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\bin\AngularCSVExport.dll.config
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\bin\AngularCSVExport.dll
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\bin\AngularCSVExport.pdb
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\obj\Debug\AngularCSVExport.csprojResolveAssemblyReference.cache
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\obj\Debug\AngularCSVExport.dll
+G:\Dot Net Work\GitHub\AngularCSVExport\AngularCSVExport\AngularCSVExport\obj\Debug\AngularCSVExport.pdb
